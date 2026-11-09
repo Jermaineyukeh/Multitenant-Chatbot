@@ -1,7 +1,7 @@
 # Multi-Tenant WhatsApp/Instagram Chatbot
 
 One backend, unlimited client bots. Each client gets their own configuration
-(business info, tone, FAQs, escalation rules) stored in a database — you
+(business info, tone, FAQs, escalation rules) stored in a database you
 don't write new code per client, you just add a row.
 
 ## What's included
